@@ -1,4 +1,4 @@
-This is a cloned implementation with slightly modifications from this repo: https://github.com/hkust-vgd/pointwise/tree/master/scene_seg/pointnet
+Cloned and slightly modified from: https://github.com/hkust-vgd/pointwise/tree/master/scene_seg/pointnet
 
 Paper: 
 ### PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation
